@@ -1,0 +1,40 @@
+#container{
+  
+    background-image: url("https://img.freepik.com/free-photo/digital-art-galaxy_23-2151050699.jpg?t=st=1714062391~exp=1714065991~hmac=6b13af75d2682abcefcfc1f1e8c31f002ba7ef850b19b3e1cd1f3b84b8ed7666&w=826");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 2px solid rebeccapurple;
+    width: 100%;
+    height: 900px;
+}
+.main{
+    border: 2px solid black;
+    width: 30%;
+    height: 350px;
+    margin: auto;
+    margin-top: 15%;
+    box-shadow: 2px 0px 10px 5px;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    color: black;
+}
+h2{
+    text-align: center;
+    color: beige;
+    font-size: 35px;
+}
+.buttons{
+    display: flex;
+    justify-content: space-around;
+    width: 70%;
+    margin: auto;
+    margin-top: 50px;
+}
+button{
+    width: 25%;
+    padding: 15px;
+    border-radius: 10px;
+}

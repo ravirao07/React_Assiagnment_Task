@@ -1,0 +1,16 @@
+  #root {
+    max-width: 1850px;
+    height: 835px;
+    /* border: 2px solid red; */
+    width: 100%;
+    margin: 0 auto;
+    margin-left: -7px;
+    padding: 2rem;
+    text-align: center;
+    background-image: url("https://media.istockphoto.com/id/1214055186/photo/abstract-geometric-background.jpg?s=2048x2048&w=is&k=20&c=fdwyQ3QliqN9JA9U6lnUzihIZ4qxRw4isezgel9bWHc=");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+ 
